@@ -282,4 +282,4 @@ def answer_founder_question(question):
 
     return result
 
-answer_founder_question("How's our pipeline this quarter?")
+#answer_founder_question("How's our pipeline this quarter?")
